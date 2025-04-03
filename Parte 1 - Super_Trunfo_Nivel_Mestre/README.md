@@ -1,5 +1,5 @@
 # ⚔ Projeto e desafio do primeiro módulo ❗
-Este projeto foi desenvolvido como parte do desafio do primeiro módulo da faculdade. O objetivo é coletar informações sobre duas cidades, compará-las e exibir resultados relevantes de forma organizada.
+Este projeto foi desenvolvido como parte do desafio do primeiro e segundo módulo da faculdade. O objetivo é coletar informações sobre duas cidades, compará-las e exibir resultados relevantes de forma organizada.
 ## 📥 Entrada e Saída de Dados 📤
 - printf() → Utilizado para exibir mensagens e resultados no console.
 - scanf() → Utilizado para capturar entradas do usuário.
